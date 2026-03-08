@@ -1,1 +1,0 @@
-Hello Araks jan!
