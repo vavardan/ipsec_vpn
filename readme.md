@@ -1,5 +1,5 @@
 
-# **[OCI Site-to-Site IPSec VPN configuration and deployment guiddcdcdce](#)**
+# **[OCI Site-to-Site IPSec VPN configuration and deployment guide](#)**
 #
 
 ## **Overview**
